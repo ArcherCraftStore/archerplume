@@ -1,0 +1,14 @@
+Thu, 19 Jun 2014 14:33:24 -0400
+README.rdoc	Thu, 19 Jun 2014 08:59:22 -0400
+app/controllers/application_controller.rb	Thu, 19 Jun 2014 13:13:12 -0400
+app/controllers/articles_controller.rb	Thu, 19 Jun 2014 11:04:26 -0400
+app/controllers/comments_controller.rb	Thu, 19 Jun 2014 11:05:26 -0400
+app/controllers/welcome_controller.rb	Thu, 19 Jun 2014 13:48:26 -0400
+app/helpers/application_helper.rb	Thu, 19 Jun 2014 08:59:26 -0400
+app/helpers/articles_helper.rb	Thu, 19 Jun 2014 09:26:40 -0400
+app/helpers/comments_helper.rb	Thu, 19 Jun 2014 10:41:34 -0400
+app/helpers/welcome_helper.rb	Thu, 19 Jun 2014 09:14:36 -0400
+app/models/article.rb	Thu, 19 Jun 2014 11:02:16 -0400
+app/models/comment.rb	Thu, 19 Jun 2014 10:36:50 -0400
+lib/archerplume.rb	Thu, 19 Jun 2014 11:20:44 -0400
+lib/archerplume/version.rb	Thu, 19 Jun 2014 11:20:44 -0400
